@@ -1,5 +1,5 @@
 # Assignment 2
-Second Assignment, Submission: 2020-07-31, 23:59:59
+Second Assignment, Deadline: 2020-07-31, 23:59:59
 
 In this assignment, you will work together in groups on a larger project that builds over several weeks.
 The project will focus on getting data from the web, cleaning and writing data in Python.
