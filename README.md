@@ -21,7 +21,7 @@ Furthermore all Links to every solution will be provided in this [README](./READ
 
     5. Finally finish your work by pushing it with the following command: `git push`.
 
-* **Before starting to work** check the [To-do List](./tasklist.md).
+* **Before starting to work** check the [To-do list](./tasklist.md).
 
 ___
 
