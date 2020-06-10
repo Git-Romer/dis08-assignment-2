@@ -3,7 +3,7 @@
 ## General information
 
 In this repository we will solve the Exercises from the second Assignment.
-Furthermore all Links to every solution will be provided in this [README.md](./Readme.md) file.
+Furthermore all Links to every solution will be provided in this [README.md](./README.md) file.
 
 ## Group information
 
