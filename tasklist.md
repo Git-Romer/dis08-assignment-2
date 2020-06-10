@@ -6,6 +6,7 @@ ___
 - [x] Adding To-do list
 - [ ] Explanation of our Repo in the README.md file
   - [ ] Adding missing links to the exercises
+  - [ ] Explain how the solutions are committed (Notebook)
 - [ ] Finish Assignment 2
 
 ___
