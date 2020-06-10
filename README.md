@@ -3,7 +3,7 @@
 ## General information
 
 In this repository we will solve the Exercises from the second Assignment.
-Furthermore all Links to every solution will be provided in this [README.md](./README.md) file.
+Furthermore all Links to every solution will be provided in this [README](./README.md) file.
 
 ## Group information
 
@@ -11,7 +11,7 @@ Furthermore all Links to every solution will be provided in this [README.md](./R
 
 * Every group member has its own branch to use while working! This allows us to work simultaniously on the same document without breaking or loosing our data.
   * **Usage:**
-    1. Before starting to work making sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`)
+    1. **Before starting to work** making sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`)
 
     2. After saving the files, adding them to the queue and commiting them, type the following to return to the master branch: `git checkout master`.
 
@@ -20,6 +20,8 @@ Furthermore all Links to every solution will be provided in this [README.md](./R
     4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
 
     5. Finally finish your work by pushing it with the following command: `git push`.
+
+* **Before starting to work** check the [To-do List](./tasklist.md).
 
 ___
 
