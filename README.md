@@ -10,7 +10,7 @@ Furthermore all Links to every solution will be provided in this [README.md](./R
 * For better communication within the group there is a file called [tasklist.md](./tasklist.md) in which we will list all the To-do tasks to finish our job.
 
 * Every group member has its own branch to use while working! This allows us to work simultaniously on the same document without breaking or loosing our data.
-  * Usage:
+  **Usage:**
    1. Before starting to work making sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`)
 
    2. After saving the files, adding them to the queue and commiting them, type the following to return to the master branch: `git checkout master`.
