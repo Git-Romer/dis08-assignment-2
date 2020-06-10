@@ -19,6 +19,8 @@ Furthermore all Links to every solution will be provided in this [README.md](./R
 
    4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
 
+   5. Finally finish your work by pushing it with the following command: `git push`.
+
 ___
 
 # Assignment 2
