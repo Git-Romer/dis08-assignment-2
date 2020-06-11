@@ -7,7 +7,7 @@ Furthermore all Links to every solution will be provided in this [README](./READ
 
 ## Group information
 
-* For better communication within the group there is a file called [tasklist.md](./tasklist.md) in which we will list all the To-do tasks to finish our job.
+* For better communication within the group there is a file called [tasklist.md](./tasklist.md) in which we will list all the To-do tasks to finish our job. So **before starting to work** check the [To-do list](./tasklist.md).
 
 * Every group member has its own branch to use while working! This allows us to work simultaniously on the same document without breaking or loosing our data.
   * **Usage:**
@@ -20,8 +20,6 @@ Furthermore all Links to every solution will be provided in this [README](./READ
     4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
 
     5. Finally finish your work by pushing it with the following command: `git push`.
-
-* **Before starting to work** check the [To-do list](./tasklist.md).
 
 ___
 
