@@ -5,10 +5,10 @@ ___
 
 - [ ] Finish Assignment 2
   - [ ] Exercise 1
-    - [X] Nr. 0 -> **Gromer**
-    - [X] Nr. 1 -> **Gromer**
-    - [X] Nr. 2 -> **Gromer**
-    - [X] Nr. 3 -> **Gromer**
+    - [X] Nr. 0 &rarr; **Gromer**
+    - [X] Nr. 1 &rarr; **Gromer**
+    - [X] Nr. 2 &rarr; **Gromer**
+    - [X] Nr. 3 &rarr; **Gromer**
     - [ ] Nr. 4
   - [ ] Exercise 2
     - [ ] Task 1
