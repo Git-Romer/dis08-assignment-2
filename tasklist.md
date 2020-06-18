@@ -28,5 +28,7 @@ ___
 - [ ] Explanation of our Repo in the README.md file
   - [ ] Adding missing links to the exercises
   - [ ] Explain how the solutions are committed (Notebook)
+  - [ ] Create a README file for all Exercises
+    - [ ] (If used) Add sources and links used to solve the Exercises
 
 ___
