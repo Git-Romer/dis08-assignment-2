@@ -10,7 +10,7 @@ ___
     - [X] Nr. 2 &rarr; **Gromer**
     - [X] Nr. 3 &rarr; **Gromer**
     - [X] Nr. 4 &rarr; **Gromer**
-    - [ ] Explanation of approach and results
+    - [ ] Explanation of approach and results &rarr; **Gromer**
   - [ ] Exercise 2
     - [ ] Task 1
     - [ ] Task 2
