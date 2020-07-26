@@ -4,6 +4,7 @@
 
 In this repository we will solve the Exercises from the second Assignment.
 Furthermore all Links to every solution will be provided in this [README](./README.md) file.
+Every exercise gets its own Folder in which you will find all the files containing the results. Whenever we can, we will work with the Jupyter Notebook. This will allow us to have our Python code and the corresponding Markdown explanation in one place and will therefore be much cleaner and simpler to read.
 
 ## Group information
 
@@ -20,6 +21,11 @@ Furthermore all Links to every solution will be provided in this [README](./READ
     4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
 
     5. Finally finish your work by pushing it with the following command: `git push`.
+
+## Links to Exercises
+
+- [Exercise 1](./Exercise_1) &rarr; [Exercise_1.ipynb](./Exercise_1.ipynb)
+- [Exercise 2](./Exercise_2)
 
 ___
 
