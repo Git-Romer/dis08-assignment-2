@@ -9,7 +9,8 @@ ___
     - [X] Nr. 1 &rarr; **Gromer**
     - [X] Nr. 2 &rarr; **Gromer**
     - [X] Nr. 3 &rarr; **Gromer**
-    - [ ] Nr. 4
+    - [X] Nr. 4 &rarr; **Gromer**
+    - [ ] Explanation of approach and results
   - [ ] Exercise 2
     - [ ] Task 1
     - [ ] Task 2
