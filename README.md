@@ -10,13 +10,13 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * For better communication within the group there is a file called [tasklist.md](./tasklist.md) in which we will list all the To-do tasks to finish our job. So **before starting to work** check the [To-do list](./tasklist.md).
 
-* Every group member has its own branch to use while working! This allows us to work simultaniously on the same document without breaking or loosing our data.
+* Every group member has its own branch to use while working! This allows us to work simultaneously on the same document without breaking or losing our data.
   * **Usage:**
     1. **Before starting to work** type `git pull` in the `master` branch. After that make sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`). Also verify that your branch is up to date with the master branch by using: `git merge master`
 
-    2. After saving the files, adding them to the queue and commiting them, type the following to return to the master branch: `git checkout master`.
+    2. After saving the files, adding them to the queue and committing them, type the following to return to the master branch: `git checkout master`.
 
-    3. From there you need to merge your work with the master branch with this command: `git merge[YourBranchname]`.
+    3. From there you need to merge your work with the master branch with this command: `git merge [YourBranchname]`.
 
     4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
 
