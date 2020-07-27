@@ -4,13 +4,13 @@ Please make sure to check this file on a regular and especially before beginning
 ___
 
 - [ ] Finish Assignment 2
-  - [ ] Exercise 1
+  - [X] Exercise 1
     - [X] Nr. 0 &rarr; **Gromer**
     - [X] Nr. 1 &rarr; **Gromer**
     - [X] Nr. 2 &rarr; **Gromer**
     - [X] Nr. 3 &rarr; **Gromer**
     - [X] Nr. 4 &rarr; **Gromer**
-    - [ ] Explanation of approach and results &rarr; **Gromer**
+    - [X] Explanation of approach and results &rarr; **Gromer**
   - [ ] Exercise 2
     - [ ] Task 1
     - [ ] Task 2
