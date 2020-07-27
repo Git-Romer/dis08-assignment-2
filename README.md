@@ -12,7 +12,7 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * Every group member has its own branch to use while working! This allows us to work simultaniously on the same document without breaking or loosing our data.
   * **Usage:**
-    1. **Before starting to work** making sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`). Also verify that your branch is up to date with the master branch by using: `git merge master`
+    1. **Before starting to work** type `git pull` in the `master` branch. After that make sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`). Also verify that your branch is up to date with the master branch by using: `git merge master`
 
     2. After saving the files, adding them to the queue and commiting them, type the following to return to the master branch: `git checkout master`.
 
