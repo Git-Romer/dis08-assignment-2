@@ -12,21 +12,21 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * Every group member has its own branch to use while working! This allows us to work simultaneously on the same document without breaking or losing our data.
   * **Usage:**
-    1. **Before starting to work** type `git pull` in the `master` branch. After that make sure to be in the right branch by typing: `git checkout [YourBranchname]`. (To list all available branches type: `git branch`). Also verify that your branch is up to date with the master branch by using: `git merge master`
-
-    2. After saving the files, adding them to the queue and committing them, type the following to return to the master branch: `git checkout master`.
-
-    3. From there you need to merge your work with the master branch with this command: `git merge [YourBranchname]`.
-
-    4. In case this command returns a error code that states that the same file was changed elsewhere, please make sure to compare both and decide which one is the better one or what could be merged.
-
-    5. Finally finish your work by pushing it with the following command: `git push`.
+    * **Before starting to work**
+      1. make sure to be in the `master` branch by typing: `git checkout master`.
+      2. Update your local repository by typing: `git pull origin master`.
+      3. Switch to your branch by typing: `git checkout [Yourbranchname]`.
+      4. Now you need to update your own branch by typing: `git merge origin master`. **Warning** If you forgot to push your last work to your branch, the progress will be lost. In that case please make sure to do that before merging with master. To do so please refer to the last bulletpoint. As soon as everything is at its right place, you can start working.
+    * **Before finishing work**
+      1. save your files and add them to the stage by typing: `git add .`. This will add all your saved files to the stage. If you wish to stage only one file (for example to have different commit messages (*recommended*)) type this for each file: `git add "Yourfilename"` and commit it by typing: `git commit`. Repeat until all your files are committed.
+      2. Push those changes to *your own* branch by typing: `git push origin [Yourbranchname]`. First time you are doing this you should be asked to refer to the GitHub page to create a new pull request, please do so. Else this will automatically create a pull request. It means that before merging the master branch with your own branch, this step will need to be approved by someone. This will allow you and others to see the changes and prevent messing up the master branch. Additionally this will prevent deleting progress if two persons are working on the same document.
+      3. Everyone should now get a message about your pull request. Pull requests should *always* be checked and commented if something is missing. If everything seems fine feel free to approve the pull request. **Warning** GitHub will probably ask you if you want to delete that branch. You dont need to do this as you will hopefully continue to work in that branch.
 
 ## Links to Exercises
 
-- [Exercise 0](./Exercise_0)
-- [Exercise 1](./Exercise_1) &rarr; [Exercise_1.ipynb](./Exercise_1/Exercise_1.ipynb)
-- [Exercise 2](./Exercise_2)
+* [Exercise 0](./Exercise_0)
+* [Exercise 1](./Exercise_1) &rarr; [Exercise_1.ipynb](./Exercise_1/Exercise_1.ipynb)
+* [Exercise 2](./Exercise_2)
 
 ___
 
