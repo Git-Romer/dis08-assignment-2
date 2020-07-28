@@ -10,17 +10,18 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * For better communication within the group there is a file called [tasklist.md](./tasklist.md) in which we will list all the To-do tasks to finish our job. So **before starting to work** check the [To-do list](./tasklist.md).
 
-* Every group member has its own branch to use while working! This allows us to work simultaneously on the same document without breaking or losing our data.
+* So that we can work simultaneously on the same document without breaking or losing our data, different branches need to be created for each task. This is fundamental for a group work and needs to be understood by each group member. To help understanding we have summed up how you should start and finish working. In case that there are still misunderstandings please refer to this [YouTube video](https://www.youtube.com/watch?v=MnUd31TvBoU).
   * **Usage:**
     * **Before starting to work**
       1. make sure to be in the `master` branch by typing: `git checkout master`.
       2. Update your local repository by typing: `git pull origin master`.
-      3. Switch to your branch by typing: `git checkout [Yourbranchname]`.
-      4. Now you need to update your own branch by typing: `git merge origin master`. **Warning** If you forgot to push your last work to your branch, the progress will be lost. In that case please make sure to do that before merging with master. To do so please refer to the last bulletpoint. As soon as everything is at its right place, you can start working.
+      3. Check what branches already exist by typing: `git branch`
+      4. Switch to your desired branch by typing: `git checkout [Yourbranchname]`. Or create a new one if necessary, by typing: `git branch -b [Yourbranchname]
+      5. Now you need to update your branch by typing: `git merge origin master`. **Warning** If you forgot to push your last work to your branch, the progress will be lost. In that case please make sure to do that before merging with master. To do so please refer to "Before finishing work". As soon as everything is at its right place, you can start working.
     * **Before finishing work**
       1. save your files and add them to the stage by typing: `git add .`. This will add all your saved files to the stage. If you wish to stage only one file (for example to have different commit messages (*recommended*)) type this for each file: `git add "Yourfilename"` and commit it by typing: `git commit`. Repeat until all your files are committed.
-      2. Push those changes to *your own* branch by typing: `git push origin [Yourbranchname]`. First time you are doing this you should be asked to refer to the GitHub page to create a new pull request, please do so. Else this will automatically create a pull request. It means that before merging the master branch with your own branch, this step will need to be approved by someone. This will allow you and others to see the changes and prevent messing up the master branch. Additionally this will prevent deleting progress if two persons are working on the same document.
-      3. Everyone should now get a message about your pull request. Pull requests should *always* be checked and commented if something is missing. If everything seems fine feel free to approve the pull request. **Warning** GitHub will probably ask you if you want to delete that branch. You dont need to do this as you will hopefully continue to work in that branch.
+      2. Push those changes to *your* branch by typing: `git push origin [Yourbranchname]`. First time you are doing this you should be asked to refer to the GitHub page to create a new pull request, please do so. Else this will automatically create a pull request. It means that before merging the master branch with your own branch, this step will need to be approved by someone. This will allow you and others to see the changes and prevent messing up the master branch. Additionally, this will prevent deleting progress if two persons are working on the same document.
+      3. Everyone should now get a message about your pull request. Pull requests should *always* be checked and commented if something is missing. **Warning** Only merge your branch with the master branch if the whole task is finished and approved by everyone! In case that you finished the task please feel free to delete the branch after merging it with master.
 
 ## Links to Exercises
 
