@@ -20,6 +20,7 @@ Every exercise gets its own Folder in which you will find all the files containi
     * **Before finishing work**
       1. save your files and add them to the stage by typing: `git add .`. This will add all your saved files to the stage. If you wish to stage only one file (for example to have different commit messages (*recommended*)) type this for each file: `git add "Yourfilename"` and commit it by typing: `git commit`. Repeat until all your files are committed.
       2. Push those changes to *your own* branch by typing: `git push origin [Yourbranchname]`. This will automatically create a pull request. It means that before merging the master branch with your own branch, this step will need to be approved by someone. This will allow you and others to see the changes and prevent messing up the master branch. Additionally this will prevent deleting progress if two persons are working on the same document.
+      3. Everyone should now get a message about your pull request. Pull requests should *always* be checked and commented if something is missing. If everything seems fine feel free to approve the pull request. **Warning** GitHub will probably ask you if you want to delete that branch. You dont need to do this as you will hopefully continue to work in that branch.
 
 ## Links to Exercises
 
