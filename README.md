@@ -15,8 +15,8 @@ Every exercise gets its own Folder in which you will find all the files containi
     * **Before starting to work**
       1. make sure to be in the `master` branch by typing: `git checkout master`.
       2. Update your local repository by typing: `git pull origin master`.
-      3. Check what branches already exist by typing: `git branch`
-      4. Switch to your desired branch by typing: `git checkout [Yourbranchname]`. Or create a new one if necessary, by typing: `git branch -b [Yourbranchname]
+      3. Check what branches already exist by typing: `git branch -a`
+      4. Switch to your desired branch by typing: `git checkout [Yourbranchname]`. Or create a new one if necessary, by typing: `git branch -b [Yourbranchname]`
       5. Now you need to Check for updates in your branch by typing: `git pull origin [Yourbranchname]`. **Warning** If you forgot to push your last work to your branch, the progress will be lost. In that case please make sure to do that before pulling from origin. To do so please refer to "Before finishing work". As soon as everything is at its right place, you can start working.
     * **Before finishing work**
       1. save your files and add them to the stage by typing: `git add .`. This will add all your saved files to the stage. If you wish to stage only one file (for example to have different commit messages (*recommended*)) type this for each file: `git add [Yourfilename]` and commit it by typing: `git commit`. Repeat until all your files are committed.
