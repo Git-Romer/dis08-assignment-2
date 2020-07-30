@@ -3,7 +3,7 @@
 ## General information
 
 In this repository we will solve the Exercises from the second Assignment.
-Furthermore all Links to every solution will be provided in this [README](./README.md) file.
+Furthermore all Links to every solution will be provided in this [README](./README.md) file or in the equivalent exercise directories.
 Every exercise gets its own Folder in which you will find all the files containing the results. Whenever we can, we will work with the Jupyter Notebook. This will allow us to have our Python code and the corresponding Markdown explanation in one place and will therefore be much cleaner and simpler to read.
 
 ## Group information
@@ -27,7 +27,7 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * [Exercise 0](./Exercise_0)
 * [Exercise 1](./Exercise_1) &rarr; [Exercise_1.ipynb](./Exercise_1/Exercise_1.ipynb)
-* [Exercise 2](./Exercise_2)
+* [Exercise 2](./Exercise_2) &rarr; [Exercise_2.ipynb](./Exercise_2/Exercise_1.ipynb)
 
 ___
 
