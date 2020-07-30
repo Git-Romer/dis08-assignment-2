@@ -22,7 +22,7 @@ ___
       - [X] Nr. 3 &rarr; **Gromer**
       - [X] Documentation &rarr; **Gromer**
     - [ ] Bonus
-      - [X] Documentation &rarr; **Gromer**
+      - [ ] Documentation
   - [ ] Exercise 3
     - [ ] Nr. 1
       - [ ] Documentation
