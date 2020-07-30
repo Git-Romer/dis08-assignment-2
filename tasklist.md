@@ -11,12 +11,14 @@ ___
     - [X] Nr. 3 &rarr; **Gromer**
     - [X] Nr. 4 &rarr; **Gromer**
     - [X] Explanation of approach and results &rarr; **Gromer**
-  - [ ] Exercise 2
-    - [ ] Task 1
-    - [ ] Task 2
-      - [ ] Nr. 1
-      - [ ] Nr. 2
-      - [ ] Nr. 3
+  - [X] Exercise 2 &rarr; **Gromer**
+    - [X] Task 1 &rarr; **Gromer**
+      - [X] 1.1 &rarr; **Gromer**
+      - [X] 1.2 &rarr; **Gromer**
+    - [X] Task 2 &rarr; **Gromer**
+      - [X] Nr. 1 &rarr; **Gromer**
+      - [X] Nr. 2 &rarr; **Gromer**
+      - [X] Nr. 3 &rarr; **Gromer**
     - [ ] Bonus
   - [ ] Exercise 3
     - [ ] Nr. 0
@@ -25,10 +27,10 @@ ___
     - [ ] Nr. 3
     - [ ] Nr. 4
     - [ ] Nr. 5
-- [x] Adding To-do list
-- [ ] Explanation of our Repo in the README.md file
+- [x] Adding To-do list &rarr; **Gromer**
+- [ ] Explanation of our Repo in the README.md file &rarr; **Gromer**
   - [ ] Adding missing links to the exercises
-  - [ ] Explain how the solutions are committed (Notebook)
+  - [X] Explain how the solutions are committed (Notebook) &rarr; **Gromer**
   - [ ] Create a README file for all Exercises
     - [ ] (If used) Add sources and links used to solve the Exercises
 
