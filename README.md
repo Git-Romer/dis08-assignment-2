@@ -27,7 +27,7 @@ Every exercise gets its own Folder in which you will find all the files containi
 
 * [Exercise 0](./Exercise_0)
 * [Exercise 1](./Exercise_1) &rarr; [Exercise_1.ipynb](./Exercise_1/Exercise_1.ipynb)
-* [Exercise 2](./Exercise_2) &rarr; [Exercise_2.ipynb](./Exercise_2/Exercise_1.ipynb)
+* [Exercise 2](./Exercise_2) &rarr; [Exercise_2.ipynb](./Exercise_2/Exercise_2.ipynb)
 
 ___
 
