@@ -10,23 +10,30 @@ ___
     - [X] Nr. 2 &rarr; **Gromer**
     - [X] Nr. 3 &rarr; **Gromer**
     - [X] Nr. 4 &rarr; **Gromer**
-    - [X] Explanation of approach and results &rarr; **Gromer**
+    - [X] Documentation &rarr; **Gromer**
   - [X] Exercise 2 &rarr; **Gromer**
     - [X] Task 1 &rarr; **Gromer**
       - [X] 1.1 &rarr; **Gromer**
       - [X] 1.2 &rarr; **Gromer**
+      - [X] Documentation &rarr; **Gromer**
     - [X] Task 2 &rarr; **Gromer**
       - [X] Nr. 1 &rarr; **Gromer**
       - [X] Nr. 2 &rarr; **Gromer**
       - [X] Nr. 3 &rarr; **Gromer**
+      - [X] Documentation &rarr; **Gromer**
     - [ ] Bonus
+      - [X] Documentation &rarr; **Gromer**
   - [ ] Exercise 3
-    - [ ] Nr. 0
     - [ ] Nr. 1
+      - [ ] Documentation
     - [ ] Nr. 2
+      - [ ] Documentation
     - [ ] Nr. 3
+      - [ ] Documentation
     - [ ] Nr. 4
+      - [ ] Documentation
     - [ ] Nr. 5
+      - [ ] Documentation
 - [x] Adding To-do list &rarr; **Gromer**
 - [ ] Explanation of our Repo in the README.md file &rarr; **Gromer**
   - [ ] Adding missing links to the exercises
