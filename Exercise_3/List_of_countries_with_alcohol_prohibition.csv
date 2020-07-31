@@ -1,25 +1,25 @@
-Names,URL
-Aceh,https://wikipedia.org/wiki/Aceh
-Afghanistan,https://wikipedia.org/wiki/Afghanistan
-Bahrain,https://wikipedia.org/wiki/Bahrain
-Bangladesh,https://wikipedia.org/wiki/Bangladesh
-Bihar,https://wikipedia.org/wiki/Bihar
-Brunei,https://wikipedia.org/wiki/Brunei
-Djibouti,https://wikipedia.org/wiki/Djibouti
-Gujarat,https://wikipedia.org/wiki/Gujarat
-Iran,https://wikipedia.org/wiki/Iran
-Kuwait,https://wikipedia.org/wiki/Kuwait
-Lakshadweep,https://wikipedia.org/wiki/Lakshadweep
-Libya,https://wikipedia.org/wiki/Libya
-Maldives,https://wikipedia.org/wiki/Maldives
-Mauritania,https://wikipedia.org/wiki/Mauritania
-Mizoram,https://wikipedia.org/wiki/Mizoram
-Nagaland,https://wikipedia.org/wiki/Nagaland
-Pakistan,https://wikipedia.org/wiki/Pakistan
-Qatar,https://wikipedia.org/wiki/Qatar
-Saudi Arabia,https://wikipedia.org/wiki/Saudi_Arabia
-Somalia,https://wikipedia.org/wiki/Somalia
-South Africa,https://wikipedia.org/wiki/South_Africa
-Sudan,https://wikipedia.org/wiki/Sudan
-United Arab Emirates,https://wikipedia.org/wiki/United_Arab_Emirates
-Yemen,https://wikipedia.org/wiki/Yemen
+Names,URL,Capitals,Timezones
+Aceh,https://wikipedia.org/wiki/Aceh,Banda_Aceh,UTC+7
+Afghanistan,https://wikipedia.org/wiki/Afghanistan,Kabul,UTC+4:30_Solar_Calendar
+Bahrain,https://wikipedia.org/wiki/Bahrain,Manama,UTC+3
+Bangladesh,https://wikipedia.org/wiki/Bangladesh,Dhaka,UTC+6
+Bihar,https://wikipedia.org/wiki/Bihar,Patna,UTC+05:30
+Brunei,https://wikipedia.org/wiki/Brunei,Bandar_Seri_Begawan,UTC+8
+Djibouti,https://wikipedia.org/wiki/Djibouti,Djibouti,UTC+3
+Gujarat,https://wikipedia.org/wiki/Gujarat,Gandhinagar,UTC+05:30
+Iran,https://wikipedia.org/wiki/Iran,Tehran,UTC+3:30
+Kuwait,https://wikipedia.org/wiki/Kuwait,Kuwait_City,UTC+3
+Lakshadweep,https://wikipedia.org/wiki/Lakshadweep,Kavaratti,UTC+5:30
+Libya,https://wikipedia.org/wiki/Libya,Tripoli,UTC+2
+Maldives,https://wikipedia.org/wiki/Maldives,Malé,UTC+5
+Mauritania,https://wikipedia.org/wiki/Mauritania,Nouakchott,UTC_
+Mizoram,https://wikipedia.org/wiki/Mizoram,Aizawl,UTC+05:30
+Nagaland,https://wikipedia.org/wiki/Nagaland,Kohima,UTC+05:30
+Pakistan,https://wikipedia.org/wiki/Pakistan,Islamabad,UTC+05:00
+Qatar,https://wikipedia.org/wiki/Qatar,Doha,UTC+3
+Saudi Arabia,https://wikipedia.org/wiki/Saudi_Arabia,Riyadh,UTC+3
+Somalia,https://wikipedia.org/wiki/Somalia,Mogadishu,UTC+3
+South Africa,https://wikipedia.org/wiki/South_Africa,Pretoria,UTC+2
+Sudan,https://wikipedia.org/wiki/Sudan,Khartoum,UTC+2
+United Arab Emirates,https://wikipedia.org/wiki/United_Arab_Emirates,Abu_Dhabi,UTC+4
+Yemen,https://wikipedia.org/wiki/Yemen,Sanaa,UTC+3
