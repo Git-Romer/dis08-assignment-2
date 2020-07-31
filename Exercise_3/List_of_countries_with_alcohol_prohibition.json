@@ -1,0 +1,146 @@
+[
+    {
+        "Names": "Aceh",
+        "URL": "https://wikipedia.org/wiki/Aceh",
+        "Capitals": "Banda_Aceh",
+        "Timezones": "UTC+7"
+    },
+    {
+        "Names": "Afghanistan",
+        "URL": "https://wikipedia.org/wiki/Afghanistan",
+        "Capitals": "Kabul",
+        "Timezones": "UTC+4:30_Solar_Calendar"
+    },
+    {
+        "Names": "Bahrain",
+        "URL": "https://wikipedia.org/wiki/Bahrain",
+        "Capitals": "Manama",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "Bangladesh",
+        "URL": "https://wikipedia.org/wiki/Bangladesh",
+        "Capitals": "Dhaka",
+        "Timezones": "UTC+6"
+    },
+    {
+        "Names": "Bihar",
+        "URL": "https://wikipedia.org/wiki/Bihar",
+        "Capitals": "Patna",
+        "Timezones": "UTC+05:30"
+    },
+    {
+        "Names": "Brunei",
+        "URL": "https://wikipedia.org/wiki/Brunei",
+        "Capitals": "Bandar_Seri_Begawan",
+        "Timezones": "UTC+8"
+    },
+    {
+        "Names": "Djibouti",
+        "URL": "https://wikipedia.org/wiki/Djibouti",
+        "Capitals": "Djibouti",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "Gujarat",
+        "URL": "https://wikipedia.org/wiki/Gujarat",
+        "Capitals": "Gandhinagar",
+        "Timezones": "UTC+05:30"
+    },
+    {
+        "Names": "Iran",
+        "URL": "https://wikipedia.org/wiki/Iran",
+        "Capitals": "Tehran",
+        "Timezones": "UTC+3:30"
+    },
+    {
+        "Names": "Kuwait",
+        "URL": "https://wikipedia.org/wiki/Kuwait",
+        "Capitals": "Kuwait_City",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "Lakshadweep",
+        "URL": "https://wikipedia.org/wiki/Lakshadweep",
+        "Capitals": "Kavaratti",
+        "Timezones": "UTC+5:30"
+    },
+    {
+        "Names": "Libya",
+        "URL": "https://wikipedia.org/wiki/Libya",
+        "Capitals": "Tripoli",
+        "Timezones": "UTC+2"
+    },
+    {
+        "Names": "Maldives",
+        "URL": "https://wikipedia.org/wiki/Maldives",
+        "Capitals": "Mal\u00e9",
+        "Timezones": "UTC+5"
+    },
+    {
+        "Names": "Mauritania",
+        "URL": "https://wikipedia.org/wiki/Mauritania",
+        "Capitals": "Nouakchott",
+        "Timezones": "UTC_"
+    },
+    {
+        "Names": "Mizoram",
+        "URL": "https://wikipedia.org/wiki/Mizoram",
+        "Capitals": "Aizawl",
+        "Timezones": "UTC+05:30"
+    },
+    {
+        "Names": "Nagaland",
+        "URL": "https://wikipedia.org/wiki/Nagaland",
+        "Capitals": "Kohima",
+        "Timezones": "UTC+05:30"
+    },
+    {
+        "Names": "Pakistan",
+        "URL": "https://wikipedia.org/wiki/Pakistan",
+        "Capitals": "Islamabad",
+        "Timezones": "UTC+05:00"
+    },
+    {
+        "Names": "Qatar",
+        "URL": "https://wikipedia.org/wiki/Qatar",
+        "Capitals": "Doha",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "Saudi Arabia",
+        "URL": "https://wikipedia.org/wiki/Saudi_Arabia",
+        "Capitals": "Riyadh",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "Somalia",
+        "URL": "https://wikipedia.org/wiki/Somalia",
+        "Capitals": "Mogadishu",
+        "Timezones": "UTC+3"
+    },
+    {
+        "Names": "South Africa",
+        "URL": "https://wikipedia.org/wiki/South_Africa",
+        "Capitals": "Pretoria",
+        "Timezones": "UTC+2"
+    },
+    {
+        "Names": "Sudan",
+        "URL": "https://wikipedia.org/wiki/Sudan",
+        "Capitals": "Khartoum",
+        "Timezones": "UTC+2"
+    },
+    {
+        "Names": "United Arab Emirates",
+        "URL": "https://wikipedia.org/wiki/United_Arab_Emirates",
+        "Capitals": "Abu_Dhabi",
+        "Timezones": "UTC+4"
+    },
+    {
+        "Names": "Yemen",
+        "URL": "https://wikipedia.org/wiki/Yemen",
+        "Capitals": "Sanaa",
+        "Timezones": "UTC+3"
+    }
+]
