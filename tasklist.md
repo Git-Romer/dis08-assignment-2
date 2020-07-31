@@ -25,15 +25,15 @@ ___
       - [X] Documentation &rarr; **Gromer**
   - [X] Exercise 3
     - [X] Nr. 1 &rarr; **Zalarslan**
-    - [ ] Nr. 2 &rarr; **Zalarslan**
-    - [ ] Nr. 3 &rarr; **Gromer**
-    - [ ] Nr. 4 &rarr; **Btanriver**
-    - [ ] Nr. 5 &rarr; **Kcelik**
+    - [X] Nr. 2 &rarr; **Zalarslan**
+    - [X] Nr. 3 &rarr; **Gromer**
+    - [X] Nr. 4 &rarr; **Btanriver**
+    - [X] Nr. 5 &rarr; **Kcelik**
 - [x] Adding To-do list &rarr; **Gromer**
 - [X] Explanation of our Repo in the README.md file &rarr; **Gromer**
   - [X] Adding missing links to the exercises
   - [X] Explain how the solutions are committed (Notebook) &rarr; **Gromer**
-  - [ ] Create a README file for all Exercises
+  - [X] Create a README file for all Exercises
     - [X] (If used) Add sources and links used to solve the Exercises
 
 ___
